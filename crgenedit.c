@@ -1,3 +1,5 @@
+//NOTE: this is made by Christopher Kello. I made small edits to make its output work better with my visualization 
+//but the vast majority of this code is attributed to him.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
